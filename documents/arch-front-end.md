@@ -44,15 +44,15 @@ show limitation in data - NA vs global
 - List of criteria to add data layers for, on  the map
 - When map is depicting future scenario, show an animation icon that allows the user to see current-> selected year, criteria animated.
 
-#### Feature: User Education
+#### Feature: User Education -optional for MVP
 - Side panel - with a blurb for the user. for example: additional rainfall and what that means reagionally and globally
 - Each criteria should have a hover over box
 
-#### Feature: Dropped Pins
+#### Feature: Dropped Pins - Nice to have - optional MVP
 - Top 10 cities - most affected by climate change (using over all livibility)
 - Top 10 most resilent cities
 
-#### Logic / Data units
+#### Logic / Data units (optional)
 - Select units to show
 - Select what metric to show the difference in
   - rate of change
@@ -73,4 +73,3 @@ show limitation in data - NA vs global
 2. Ocean chemisty changes 
 - Research - is there data available that's raw with clear models that we use to predict events and changes that can be shown to the user?
 - Is there data available that uses this ocean chemistry data and predicts other climate trends it will contribute to?
-
