@@ -37,12 +37,15 @@ show limitation in data - NA vs global
 
 #### Feature: Map options
 - Display a map
-- A heading / title saying what the user is currently looking at
-- Take an input for a city to focus the map on that region
-- Display option for timeframes available
-- The user can select between the current and the time frames to see the differencs
+- A heading / title saying what the user is currently looking at - when panel is collapsed - show as a descriptive statement up top 
+- Take an input for a city to focus the map on that region (Optional)
+- Display option for timeframes available -  slider option (5 year increments )
+- The user can select between the past and the time frames to see the differencs - nice to have, optinal for mvp 
+- time slider will be wrt current year - nice to show change wrt 30 years ago for drastic shock value 
 - List of criteria to add data layers for, on  the map
-- When map is depicting future scenario, show an animation icon that allows the user to see current-> selected year, criteria animated.
+- user can select criterias / forces of nature on panel - to be shown as divs spanning width of panel MVP - user can only select one at a time
+- When map is depicting future scenario, show an animation icon that allows the user to see current-> selected year, criteria animated. (optional)
+- place legend under the slider 
 
 #### Feature: User Education -optional for MVP
 - Side panel - with a blurb for the user. for example: additional rainfall and what that means reagionally and globally
@@ -54,10 +57,14 @@ show limitation in data - NA vs global
 
 #### Logic / Data units (optional)
 - Select units to show
+- EASTER EGG - if user selects us units - bomb them with info? educational video?
 - Select what metric to show the difference in
   - rate of change
   - base unit
   - percentage change
+
+- showing data in c only - > decide where you will do the conversion? does it make any difference if modelled in c vs f? 
+- is there any loss of data when going from c->f or f->c
 - For each prediction - display probability and confidence (depends directly on the data used). Where to show this is TBD
 
 
