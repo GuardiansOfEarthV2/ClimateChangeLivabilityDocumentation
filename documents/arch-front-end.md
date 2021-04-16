@@ -13,10 +13,10 @@
 All data represented as layers (color overlay/ icons/ text) on top of map. The map itself will not be altered 
 (example - https://vancouver.ca/green-vancouver/sea-level-rise.aspx)
 
-examples for reference and comparison - 
-https://www.arcgis.com/apps/MapSeries/index.html?appid=3805293158d54846a29f750d63c6890e
-https://www.nnvl.noaa.gov/view/globaldata.html#GFSS
-https://fitzlab.shinyapps.io/cityapp/
+examples for reference and comparison -   
+https://www.arcgis.com/apps/MapSeries/index.html?appid=3805293158d54846a29f750d63c6890e  
+https://www.nnvl.noaa.gov/view/globaldata.html#GFSS  
+https://fitzlab.shinyapps.io/cityapp/  
 
 Some data represents events that are harmful in any context, these are medium - extreme weather events. 
 Remaining data is context based, it is describing a part of the climate which at a reagional level would have different implications than at the global and climate level
